@@ -9,7 +9,12 @@ This Streamlit application provides multiple functionalities such as summarizing
    git clone <https://github.com/rohansb10/Gen_AI>
 
 2 . Create .env file
+
+
    groq_api_key="x..."
+
+
+   
    GOOGLE_API_KEY= 'x...'
 
 
