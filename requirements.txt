@@ -1,0 +1,8 @@
+streamlit
+langchain
+pandas
+sqlalchemy
+python-dotenv
+pypdf
+Chroma
+FAISS
