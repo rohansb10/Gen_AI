@@ -1,8 +1,9 @@
 streamlit
 langchain
-pandas
-sqlalchemy
+pandas 
 python-dotenv
 pypdf
 Chroma
 FAISS
+bs4
+sentence-transformers

@@ -1,4 +1,5 @@
 .env
+env
 main.py
 notebook.ipynb
 sql.py
